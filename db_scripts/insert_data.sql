@@ -1,0 +1,1 @@
+INSERT INTO `users`( `username`, `pass`, `created`) VALUES ('nadya','123456','2023-10-23 15:58:00');
